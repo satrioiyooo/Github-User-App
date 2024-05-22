@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github APP User</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="Detail">Detail User</string>
+    <string name="textview">TextView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="follower">%d Followers</string>
+    <string name="following">%d Following</string>
+    <string name="Favorite">User Favorite</string>
+    <string name="Setting">Theme Setting</string>
+</resources>
